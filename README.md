@@ -1,1 +1,1 @@
-note : i'm not the author of the content, im only helping in make the code
+# note : i'm not the author of the content, im only helping in makin the code
