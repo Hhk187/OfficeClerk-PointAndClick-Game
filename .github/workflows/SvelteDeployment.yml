@@ -1,2 +1,0 @@
-- name: Test Playwright Svelte
-  uses: machycek/wait-for-vercel-preview@v1.3.3
